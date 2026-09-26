@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a First Year Engineering Undergrad<br>👯 I’m looking to collaborate on Python Projects<br>🌱 I’m currently learning Data Science and C++<br>⚡ Fun fact: Blockchain also fascinates me
+🔭 I’m currently a Second Year Engineering Undergrad<br>👯 I’m looking to collaborate on Python Projects<br>🌱 I’m currently learning Data Science and C++<br>⚡ Fun fact: Blockchain also fascinates me
 
 
 # 💻 Tech Stack:
